@@ -2,4 +2,6 @@
 title: "Baseball History"
 ---
 
-This site explores the history of Major League Baseball through its data, using the Lahman database.
+This site explores Major League Baseball history through the Lahman database. Comparing home runs per team-game rather than season totals shows why shortened seasons can look like dramatic collapses: fewer games mean fewer home runs overall, while the rate offers a fairer season-to-season comparison.
+
+The site also ranks career home-run leaders and takes a closer look at Barry Bonds' home runs by season. Visit the analysis pages from the navbar.
